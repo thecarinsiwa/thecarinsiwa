@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @thecarinsiwa
-- 👀 I’m interested in travelling and coding
+- 👀 I’m interested in coding and travelling
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on AI Development
 - 📫 How to reach me : Mail => thecarinsiwa@gmail.com || Social Media => @siwacarin_cd
