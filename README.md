@@ -59,11 +59,11 @@ const carin = {
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thecarinsiwa&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thecarinsiwa&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FF6B6B&include_all_commits=true&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thecarinsiwa&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thecarinsiwa&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B)
 
-![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=thecarinsiwa&theme=radical&hide_border=true&background=0D1117)
+![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=thecarinsiwa&theme=radical&hide_border=true&background=0D1117&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FF6B6B)
 
 </div>
 
@@ -108,11 +108,11 @@ const carin = {
 
 ---
 
-## 📈 Contribution Graphique
+## 📈 Graphique de Contribution
 
 <div align="center">
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=thecarinsiwa&theme=redical&hide_border=true&bg_color=0D1117)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=thecarinsiwa&theme=radical&hide_border=true&bg_color=0D1117&color=FF6B6B&line=FF6B6B&point=FFFFFF&area=true)
 
 </div>
 
