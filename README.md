@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 
 # Hi there, I'm Carin Siwa 👋
 
@@ -23,7 +23,7 @@ To setup the Spotify widget like the image:
 
 </div>
 
-<div align="center">
+<div align="left">
 
 ### 🛠️ Tech Stack
 
@@ -65,7 +65,7 @@ To setup the Spotify widget like the image:
 
 <br/>
 
-<div align="center">
+<div align="left">
 
 ### ❤️ Contact with Me ⤵️
 
@@ -89,7 +89,7 @@ To setup the Spotify widget like the image:
 
 <br/>
 
-<div align="center">
+<div align="left">
 
 ### ⚙️ GitHub Analytics
 
