@@ -1,4 +1,4 @@
-# Hi, I'm Carin Siwa (aka TheCarinSiwa) 💻 <-> ❤️
+# Hi, I'm Carin Siwa (TheCarinSiwa) 💻 <-> 
 
 ## 📝 About Me
 
@@ -12,7 +12,7 @@
 
 ### 🎧 Spotify Playing
 
-[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=siwacarin&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/siwacarin)
+[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=31v7jfrkuvty4chli3ouvazihjxy&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/31v7jfrkuvty4chli3ouvazihjxy)
 
 ---
 
@@ -60,7 +60,7 @@
 
 ### 📧 Contact
 
-Have a project you'd like me to work on? [Hire Me](mailto:gentilakili98@gmail.com)
+Have a project you'd like me to work on? [Hire Me](mailto:thecarinsiwa@gmail.com)
 
 Looking for a long-term contractor, part-time, or full-time tech leader? [Connect with me on LinkedIn](https://www.linkedin.com/in/siwacarin-cd/)
 
