@@ -1,4 +1,4 @@
-# Hi, I'm Carin Siwa (TheCarinSiwa) 💻 <-> 
+# Hi, I'm Carin Siwa (TheCarinSiwa) 💻 📷 🏕
 
 ## 📝 About Me
 
@@ -9,10 +9,6 @@
 - 🎯 **IT Manager & Full-Stack Developer** | Community Manager | Webmaster
 - 🎨 **Graphic Designer** | Wildlife Photographer
 - 🌍 Based in **DRC/Goma, Rwanda/Kigali**
-
-### 🎧 Spotify Playing
-
-[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=31v7jfrkuvty4chli3ouvazihjxy&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/31v7jfrkuvty4chli3ouvazihjxy)
 
 ---
 
@@ -44,7 +40,7 @@
 
 ## 🏆 GitHub Awards
 
-![trophy](https://github-profile-trophy.vercel.app/?username=thecarinsiwa&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+![trophy](https://github-profile-trophy.vercel.app/?username=thecarinsiwa&theme=onedark&row=1&column=7)
 
 ---
 
@@ -54,7 +50,7 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thecarinsiwa&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=thecarinsiwa&theme=tokyonight&hide_border=true&area=true)
+<!-- ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=thecarinsiwa&theme=tokyonight&hide_border=true&area=true) -->
 
 ---
 
