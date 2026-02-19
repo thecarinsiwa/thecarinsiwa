@@ -38,20 +38,12 @@
 
 ---
 
-## 🏆 GitHub Trophy
-![trophy](https://github-profile-trophy.vercel.app/?username=thecarinsiwa&theme=onedark&no-frame=true&row=1)
+## 📊 GitHub Analytics
 
----
-
-## ⭐ GitHub Stars
-
-![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=thecarinsiwa&show_icons=true&theme=tokyonight)
-
-## 📊 GitHub Stats
-![GitHub stats](https://api.github-readme-stats.vercel.app/api?username=thecarinsiwa&show_icons=true&theme=tokyonight)
-
-## 💻 Top Languages
-![Top Langs](https://api.github-readme-stats.vercel.app/api/top-langs/?username=thecarinsiwa&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thecarinsiwa&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thecarinsiwa&layout=compact&theme=tokyonight" alt="Top Langs" />
+</p>
 
 
 
