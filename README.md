@@ -7,7 +7,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/siwacarin_cd)
 [![Github](https://img.shields.io/badge/Github-E4405F?style=flat-square&logo=github&logoColor=white)](https://github.com/CarinSiwa)
 
-- 🎯 **IT Manager & Full-Stack Developer** | Community Manager | Webmaster
+- 🎯 **IT Manager & FullStack Developer** | Community Manager | Webmaster
 - 🎨 **Graphic Designer** | Wildlife Photographer
 - 🌍 Based in **DRC/Goma, Rwanda/Kigali**
 - 🌍 Other Github account : **https://github.com/CarinSiwa**
