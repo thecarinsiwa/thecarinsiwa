@@ -21,16 +21,26 @@
 
 ```typescript
 const carin = {
-  roles: ["IT Manager", "Full-Stack Developer", "Community Manager", "Webmaster"],
+  roles: [
+    "IT Manager",
+    "Full-Stack Developer",
+    "Community Manager",
+    "Webmaster",
+  ],
   creative: ["Graphic Designer", "Wildlife Photographer"],
   location: ["DRC / Goma", "Rwanda / Kigali"],
-  focus: ["Web platforms", "Mobile apps", "Digital communities", "Visual storytelling"],
+  focus: [
+    "Web platforms",
+    "Mobile apps",
+    "Digital communities",
+    "Visual storytelling",
+  ],
   github: "https://github.com/CarinSiwa",
   portfolio: "https://thecarinsiwa.vercel.app/",
 };
 ```
 
-- 🎯 I build and lead digital products — from architecture to delivery
+- 🎯 I build and lead digital products - from architecture to delivery
 - 🎨 I combine engineering with design and photography
 - 🤝 Open to freelance, part-time, and full-time opportunities
 
