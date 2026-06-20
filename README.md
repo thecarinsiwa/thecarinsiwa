@@ -78,6 +78,16 @@ const carin = {
 
 ---
 
+### 🎵 Currently Playing on Spotify
+
+<p align="center">
+  <a href="https://open.spotify.com/user/11153360645" target="_blank">
+    <img src="https://novatorem.bgstatic.vercel.app/api/spotify" alt="Spotify" width="380px" />
+  </a>
+</p>
+
+---
+
 ## 📧 Contact
 
 **Have a project in mind?** [Hire me](mailto:thecarinsiwa@gmail.com)
