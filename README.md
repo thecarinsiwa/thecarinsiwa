@@ -2,7 +2,7 @@
 
 # Hi, I'm Carin Siwa (TheCarinSiwa) 💻 📷 🏕
 
-**IT Manager · Full-Stack Developer · Community Manager · Wildlife Photographer**
+**IT Manager · Full-Stack Developer · Project Manager · Community Manager · Wildlife Photographer**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-thecarinsiwa.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://thecarinsiwa.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siwacarin-cd/)
